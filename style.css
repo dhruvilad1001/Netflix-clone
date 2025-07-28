@@ -132,7 +132,7 @@ nav{
 }
 .h1{
     color: white;
-    margin: 100px 150px;
+    margin: 100px 240px;
     font-size: 30px;
     font-family: 'Poppings',sans-serif;
     font-family: 'Oswald',sans-serif;
@@ -206,6 +206,33 @@ nav{
 .b4_p2{
     font-size: 18px;
     color: rgb(193,189,189);
+}
+.b1 svg{
+    margin-top: 290px;
+    margin-left: 240px;
+}
+.b2 svg{
+    margin-top: 280px;
+    margin-left: 240px;
+}
+.b3 svg{
+    margin-top: 330px;
+    margin-left: 240px;
+}
+.b4 svg{
+    margin-top: 290px;
+    margin-left: 240px;
+}
+.f1{
+    margin-right: 100px;
+    margin-top: 10px;
+}
+.hob{
+    max-width: 75vw;
+    height: 10vh;
+    background-color: rgb(70,68,68);
+    margin-left: 240px;
+    margin-top: 10px;
 }
 
 
